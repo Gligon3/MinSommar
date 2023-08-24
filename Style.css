@@ -1,0 +1,17 @@
+.container {
+    width: min(80ch, 100vw - 2rem);
+    margin-inline: auto;
+    font-family: 'Lato', sans-serif;
+font-family: 'Sedgwick Ave Display', cursive;
+}
+
+img {
+    width: min(80ch, 100vw - 2rem);
+    margin-inline: auto;
+}
+
+body {
+    background-color: bisque;
+}
+
+
